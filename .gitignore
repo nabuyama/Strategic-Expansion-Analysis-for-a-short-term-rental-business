@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Drafts & Working Folders
+drfts/
+socials/
+
+# Specific Data Files 
+csv/Results.xlsx
+
+
+# Specific SQL Analysis (Ignoring alternative query drafts)
+sql/analysis_queries_optimised.sql
+
+# Optional: Ignore all Excel temp files if you are cleaning data
+~$*.xlsx

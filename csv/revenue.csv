@@ -1,0 +1,87 @@
+VISIT ID,YEAR,MONTH,PAY FROM,PAY TO,AMOUNT-UGX,PLATFORM,IS EXTENDED BOOKING,DURATION,CLIENT NAME,CLIENT ID
+1,2025,4,19-Apr-25,19-Apr-25,108465,Airbnb,NO,1,Roy,Roy-A
+2,2025,4,21-Apr-25,22-Apr-25,212695,Airbnb,NO,2,Abayo,Abayo-A
+3,2025,4,24-Apr-25,27-Apr-25,452410,Airbnb,NO,4,Athieno,Athieno-A
+4,2025,5,01-May-25,01-May-25,130000,House mgr/askari referral,NO,1,musudani,Musudani-H
+5,2025,5,02-May-25,04-May-25,360000,House mgr/askari referral,NO,3,musudani,Musudani-H
+6,2025,5,05-May-25,05-May-25,120000,,YES,1,Musudani,Musudani-H
+7,2025,5,06-May-25,08-May-25,360000,,YES,3,Musudani,Musudani-H
+8,2025,5,09-May-25,10-May-25,240000,,YES,2,Musudani,Musudani-H
+9,2025,5,13-May-25,13-May-25,120000,Booking.com,NO,1,,
+10,2025,5,14-May-25,27-May-25,1680000,?,NO,14,,
+11,2025,5,28-May-25,28-May-25,130000,House mgr/askari referral,NO,1,,
+12,2025,5,30-May-25,30-May-25,100000,House mgr/askari referral,NO,1,,
+13,2025,5,31-May-25,31-May-25,120000,?,NO,1,Fredrick,Fredrick-?
+14,2025,6,03-Jun-25,05-Jun-25,320000,Airbnb,NO,3,Ibrahim,Ibrahim-A
+15,2025,6,08-Jun-25,13-Jun-25,800000,?,NO,6,,
+16,2025,6,14-Jun-25,14-Jun-25,110000,?,NO,1,,
+17,2025,6,19-Jun-25,19-Jun-25,110000,?,NO,1,,
+18,2025,6,20-Jun-25,20-Jun-25,100000,Airbnb,NO,1,Trevor,Trevor-A
+19,2025,6,21-Jun-25,21-Jun-25,100000,?,NO,1,Shaka,Shaka-?
+20,2025,6,24-Jun-25,24-Jun-25,110000,House mgr/askari referral,NO,1,,
+21,2025,6,25-Jun-25,25-Jun-25,120000,?,NO,1,,
+22,2025,6,26-Jun-25,26-Jun-25,100000,Airbnb,NO,1,Godfrey,Godfrey-A
+23,2025,6,27-Jun-25,28-Jun-25,200000,Airbnb,NO,3,Stephanie,Stephanie-A
+24,2025,7,01-Jul-25,02-Jul-25,200000,,NO,2,Abayo,Abayo-A
+25,2025,7,04-Jul-25,04-Jul-25,100000,Airbnb,NO,1,Alain,Alain-A
+26,2025,7,05-Jul-25,06-Jul-25,200000,Airbnb,NO,2,Rovins,Rovins-A
+27,2025,7,09-Jul-25,10-Jul-25,210000,Airbnb,NO,2,Scardy,Scardy-A
+28,2025,7,11-Jul-25,11-Jul-25,100000,Airbnb,NO,1,Nelson,Nelson-A
+29,2025,7,12-Jul-25,12-Jul-25,105000,Airbnb,NO,1,Martha,Martha-A
+30,2025,7,13-Jul-25,13-Jul-25,110000,?,NO,1,Bunny,Bunny-?
+31,2025,7,18-Jul-25,21-Jul-25,360000,Collegue referral,NO,4,,
+32,2025,7,23-Jul-25,23-Jul-25,100000,Airbnb,NO,1,Oluwasenyi,Oluwasenyi-A
+33,2025,7,25-Jul-25,27-Jul-25,300000,Airbnb,NO,3,Ivan,Ivan-A
+34,2025,7,24-Jul-25,24-Jul-25,100000,Airbnb,NO,1,Matovu,Matovu-A
+35,2025,7,28-Jul-25,28-Jul-25,100000,Airbnb,NO,1,Martha,Martha-A
+36,2025,7,29-Jul-25,29-Jul-25,100000,Airbnb,NO,1,Oluwasenyi,Oluwasenyi-A
+37,2025,7,30-Jul-25,30-Jul-25,104000,Airbnb,NO,1,Kasereka,Kasereka-A
+38,2025,7,31-Jul-25,31-Jul-25,100000,Tik tok,NO,1,Isaac,Isaac-T
+39,2025,8,01-Aug-25,01-Aug-25,118000,?,NO,1,Merveille,Merveille-?
+40,2025,8,02-Aug-25,03-Aug-25,235000,Airbnb,NO,2,Hussein,Hussein-A
+41,2025,8,04-Aug-25,04-Aug-25,130000,,YES,1,Hussein,Hussein-A
+42,2025,8,05-Aug-25,14-Aug-25,1200000,Airbnb,NO,9,Haniefa,Haniefa-A
+43,2025,8,15-Aug-25,15-Aug-25,110000,?,NO,1,Leilah,Leilah-?
+44,2025,8,16-Aug-25,17-Aug-25,235000,Airbnb,NO,2,Ian,Ian-A
+45,2025,8,19-Aug-25,20-Aug-25,240000,Airbnb,NO,2,Awot,Awot-A
+46,2025,8,21-Aug-25,21-Aug-25,135000,,YES,1,Awot,Awot-A
+47,2025,8,22-Aug-25,27-Aug-25,720000,Airbnb,NO,6,Priyanka,Priyanka-A
+48,2025,8,30-Aug-25,31-Aug-25,230000,Airbnb,NO,2,Hilder,Hilder-A
+49,2025,9,04-Sept-25,04-Sept-25,110000,Airbnb,NO,1,Atuheibwe,Atuheibwe-A
+50,2025,9,05-Sept-25,05-Sept-25,110000,Airbnb,NO,1,Martha,Martha-A
+51,2025,9,07-Sept-25,09-Sept-25,330000,Airbnb,NO,3,Mike,Mike-A
+52,2025,9,12-Sept-25,18-Sept-25,770000,Airbnb,NO,7,Martin,Martin-A
+53,2025,9,19-Sept-25,01-Oct-25,1390000,?,NO,13,Nobert,Nobert-?
+54,2025,10,03-Oct-25,03-Oct-25,100000,Tik tok,NO,1,,
+55,2025,10,04-Oct-25,04-Oct-25,110000,Airbnb,NO,1,Martha,Martha-A
+56,2025,10,06-Oct-25,07-Oct-25,220000,Tik tok,NO,2,,
+57,2025,10,08-Oct-25,09-Oct-25,210000,Airbnb,NO,2,Samson,Samson-A
+58,2025,10,11-Oct-25,11-Oct-25,100000,Airbnb,NO,1,Airbnb,Nawab-A
+59,2025,10,15-Oct-25,15-Oct-25,103000,Airbnb,NO,1,Collins,Collins-A
+60,2025,10,16-Oct-25,16-Oct-25,100000,Tik tok,NO,1,,
+61,2025,10,17-Oct-25,17-Oct-25,103000,Airbnb,NO,1,Shammah,Shammah-A
+62,2025,10,20-Oct-25,26-Oct-25,800000,Airbnb,NO,7,Barbie,Barbie-A
+63,2025,10,27-Oct-25,31-Oct-25,500000,Airbnb,YES,5,Barbie,Barbie-A
+64,2025,11,01-Nov-25,02-Nov-25,200000,,YES,2,Barbie,Barbie-A
+65,2025,11,03-Nov-25,03-Nov-25,100000,Airbnb,NO,1,Barbie,Barbie-A
+66,2025,11,05-Nov-25,05-Nov-25,100000,Airbnb,NO,1,Noah,Noah-A
+67,2025,11,07-Nov-25,07-Nov-25,100000,Airbnb,NO,1,Wilson,Wilson-A
+68,2025,11,08-Nov-25,08-Nov-25,100000,Airbnb,NO,1,Martha,Martha-A
+69,2025,11,09-Nov-25,12-Nov-25,540000,Airbnb,NO,4,Clayton,Clayton-A
+70,2025,11,14-Nov-25,21-Nov-25,1030000,Booking.com,NO,8,,
+71,2025,11,22-Nov-25,30-Nov-25,1224000,Airbnb,NO,9,Henok,Henok-A
+72,2025,12,01-Dec-25,06-Dec-25,816000,,YES,6,Henok,Henok-A
+73,2025,12,07-Dec-25,13-Dec-25,910000,?,NO,7,Nicky,Nicky-?
+74,2025,12,17-Dec-25,17-Dec-25,110000,Airbnb,NO,1,Catherine,Catherine-A
+75,2025,12,18-Dec-25,18-Dec-25,118000,Airbnb,NO,1,Simon,Simon-A
+76,2025,12,20-Dec-25,20-Dec-25,124000,?,NO,1,Lawrence,Lawrence-?
+77,2025,12,22-Dec-25,02-Jan-26,1330000,Airbnb,NO,10,Joseph,Joseph-A
+78,2026,1,01-Jan-26,02-Jan-26,266000,Airbnb,YES,2,Joseph,Joseph-A
+79,2026,1,03-Jan-26,03-Jan-26,120000,,YES,1,Joseph,Joseph-A
+80,2026,1,06-Jan-26,08-Jan-26,360000,House mgr/askari referral,NO,3,,
+81,2026,1,10-Jan-26,11-Jan-26,225000,Airbnb,NO,2,Martha,Martha-A
+82,2026,1,15-Jan-26,15-Jan-26,110000,Airbnb,NO,1,Donald,Donald-A
+83,2026,1,23-Jan-26,23-Jan-26,100000,Tik tok,NO,1,,
+84,2026,1,24-Jan-26,27-Jan-26,420000,Airbnb,NO,4,Saleh,Saleh-A
+85,2026,1,29-Jan-26,31-Jan-26,338700,Airbnb,NO,3,febmonthclient,febmonthclient-A
+86,2026,2,01-Feb-26,28-Feb-26,3161300,?,YES,28,febmonthclient,febmonthclient-A

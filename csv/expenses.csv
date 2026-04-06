@@ -1,0 +1,174 @@
+EXPENSE_ID,DATE,EXPENSE,EXPENSE CATEGORY, AMOUNT 
+1,19-Apr-25,,?,13500
+2,22-Apr-25,,?,14000
+3,22-Apr-25,Tips-askari,Tips and commission ,5000
+4,24-Apr-25,Transport-Microwave,Transport,16000
+5,27-Apr-25,Cleaning,Cleaning,22000
+6,28-Apr-25,Purchase-Rubber dryer ,Equipment,10000
+7,28-Apr-25,,?,6000
+8,01-May-25,Transport-sending keys,Transport,8000
+9,05-May-25,Cleaning,Cleaning,22500
+10,05-May-25,Water and electricity ,Utilities,50500
+11,08-May-25,Cleaning ,Cleaning,22500
+12,13-May-25,Booking.com comission,Tips and commission ,
+13,14-May-25,Cleaning,Cleaning,16500
+14,14-May-25,Microwave,HH items,255000
+15,14-May-25,Transport,Transport,10000
+16,16-May-25,Shower gel ,Toileteries,5000
+17,17-May-25,Cleaning ,Cleaning,16500
+18,28-May-25,Cleaning,Cleaning,16500
+19,28-May-25,Showergel,Toileteries,5000
+20,28-May-25,Tissue,Toileteries,10000
+21,28-May-25,Omo,Cleaning supplies,3500
+22,28-May-25,Dishwash,Cleaning supplies,8000
+23,28-May-25,Vim,Cleaning supplies,4000
+24,28-May-25,Handwash,Toileteries,5000
+25,28-May-25,Tip askari,Tips and commission ,2000
+26,29-May-25,Cleaning,Cleaning,16500
+27,31-May-25,Cleaning,Cleaning,16500
+28,01-Jun-25,Cleaning,Cleaning,16500
+29,05-Jun-25,Water and electricity ,Utilities,50500
+30,06-Jun-25,Cleaning,Cleaning,16500
+31,12-Jun-25,Cleaning ,Cleaning,16500
+32,14-Jun-25,Cleaning ,Cleaning,16500
+33,15-Jun-25,Cleaning ,Cleaning,26500
+34,19-Jun-25,Tp,Toileteries,10000
+35,19-Jun-25,Repellent ,Toileteries,5000
+36,19-Jun-25,Omo,Cleaning supplies,3500
+37,19-Jun-25,Kakuuta,Cleaning supplies,1000
+38,20-Jun-25,Internet,Internet,73000
+39,21-Jun-25,Cleaning,Cleaning,16500
+40,22-Jun-25,Cleaning ,Cleaning,16500
+41,25-Jun-25,Cleaning ,Cleaning,16500
+42,26-Jun-25,Cleaning ,Cleaning,16500
+43,27-Jun-25,Cleaning ,Cleaning,16500
+44,29-Jun-25,Cleaning ,Cleaning,16500
+45,29-Jun-25,Omo,Cleaning supplies,3500
+46,29-Jun-25,soap 5ltr jerrycan for dishwash,Cleaning supplies,7000
+47,02-Jul-25,Water&electr,Utilities,50500
+48,03-Jul-25,cleaning ,Cleaning,16500
+49,05-Jul-25,cleaning ,Cleaning,16500
+50,08-Jul-25,Cleaning,Cleaning,16500
+51,10-Jul-25,Cloth drying rack,HH items,55000
+52,10-Jul-25,Transport,Transport,10000
+53,11-Jul-25,Cleaning,Cleaning,16500
+54,12-Jul-25,Cleaning,Cleaning,16500
+55,12-Jul-25,Showergel,Toileteries,18000
+56,12-Jul-25,Tips,Tips and commission ,10000
+57,12-Jul-25,Omo,Cleaning supplies,3800
+58,13-Jul-25,Cleaning,Cleaning,16500
+59,14-Jul-25,Cleaning,Cleaning,16500
+60,20-Jul-25,Internet,Internet,73000
+61,22-Jul-25,Cleaning,Cleaning,16000
+62,24-Jul-25,Cleaning,Cleaning,16000
+63,25-Jul-25,Cleaning,Cleaning,16000
+64,28-Jul-25,Cleaning ,Cleaning,16000
+65,29-Jul-25,Cleaning ,Cleaning,16000
+66,30-Jul-25,Cleaning ,Cleaning,16500
+68,01-Aug-25,Cleaning ,Cleaning,16500
+69,02-Aug-25,Water& electric ,Utilities,101000
+70,02-Aug-25,Cleaning ,Cleaning,16000
+71,04-Aug-25,Cleaning ,Cleaning,16000
+72,05-Aug-25,Cleaning ,Cleaning,16000
+73,11-Aug-25,Cleaning ,Cleaning,16000
+74,15-Aug-25,Cleaning ,Cleaning,16000
+75,16-Aug-25,Cleaning,Cleaning,16500
+76,16-Aug-25,Bedsheets transport,Transport,10000
+77,18-Aug-25,Cleaning ,Cleaning,16500
+78,19-Aug-25,Internet,Internet,73000
+79,20-Aug-25,Tip Askari,Tips and commission ,10000
+80,20-Aug-25,Omo,Cleaning supplies,5500
+81,20-Aug-25,Hand wash,Toileteries,5000
+82,22-Aug-25,Cleaning,Cleaning,16000
+83,26-Aug-25,Cleaning,Cleaning,16000
+84,26-Aug-25,Steel wire+ cleaning,Cleaning,16000
+85,28-Aug-25,Cleaning,Cleaning,16000
+86,01-Sept-25,Cleaning,Cleaning,16000
+87,02-Sept-25,Water & electric,Utilities,101000
+88,05-Sept-25,Cleaning,Cleaning,16500
+89,06-Sept-25,Bedsheets,HH items,55000
+90,06-Sept-25,Towel,HH items,35000
+91,06-Sept-25,Transport,Transport,10000
+92,06-Sept-25,Cleaning,Cleaning,16000
+93,10-Sept-25,Cleaning ,Cleaning,16000
+94,13-Sept-25,Fan,HH items,90000
+95,13-Sept-25,Frying pan,HH items,24000
+96,16-Sept-25,Cleaning,Cleaning,16000
+97,16-Sept-25,Transport 4 cleaner,Transport,2000
+98,19-Sept-25,Internet,Internet,68000
+99,19-Sept-25,Cleaning,Cleaning,16000
+100,25-Sept-25,Cleaning,Cleaning,16500
+101,29-Sept-25,Cleaning ,Cleaning,16500
+102,02-Oct-25,Cleaning ,Cleaning,16000
+103,04-Oct-25,Tp,Toileteries,12000
+104,04-Oct-25,Handwash,Toileteries,7000
+105,04-Oct-25,Cleaning,Cleaning,16000
+106,04-Oct-25,Electricity,Utilities,60500
+107,05-Oct-25,Cleaning,Cleaning,16000
+108,05-Oct-25,Shower gel,Toileteries,13000
+109,08-Oct-25,Cleaning ,Cleaning,16000
+110,12-Oct-25,Cleaning ,Cleaning,16500
+111,13-Oct-25,key lock,HH items,49600
+112,13-Oct-25,Drilling,Maintenance,15000
+113,13-Oct-25,Omo,Cleaning supplies,3500
+114,13-Oct-25,Tip Askari,Tips and commission ,3000
+115,16-Oct-25,Cleaning ,Cleaning,16000
+116,17-Oct-25,Cleaning ,Cleaning,16000
+117,18-Oct-25,Cleaning ,Cleaning,16000
+118,18-Oct-25,Duvet cleaning ,Cleaning,10000
+119,20-Oct-25,Internet,Internet,68000
+120,23-Oct-25,Cleaning,Cleaning,16000
+121,26-Oct-25,Cleaning,Cleaning,16000
+122,26-Oct-25,Shower gel,Toileteries,18000
+123,29-Oct-25,Cleaning,Cleaning,16000
+124,02-Nov-25,Electricity,Utilities,101000
+125,02-Nov-25,Omo,Cleaning supplies,3500
+126,03-Nov-25,Cleaning,Cleaning,16500
+127,04-Nov-25,Cleaning,Cleaning,16500
+128,06-Nov-25,Cleaning,Cleaning,16000
+129,08-Nov-25,Cleaning,Cleaning,16000
+130,08-Nov-25,Cleaning,Cleaning,16000
+131,08-Nov-25,Bukuuta 3 (two kept),Cleaning supplies,3000
+132,08-Nov-25,Busimuula 2( 1 kept),Cleaning supplies,4000
+133,08-Nov-25,Tp (kept under) 3 in bathroom,Toileteries,9500
+134,08-Nov-25,Jerrycan soap(4months),Cleaning supplies,10000
+135,11-Nov-25,Cleaninh,Cleaning,16000
+136,13-Nov-25,Cleaning,Cleaning,16000
+137,16-Nov-25,Cleaning,Cleaning,16500
+138,22-Nov-25,Cleaning,Cleaning,16500
+139,22-Nov-25,Internet,Internet,68000
+140,02-Dec-25,Electric bill,Utilities,101000
+141,07-Dec-25,Cleqning,Cleaning,16000
+142,07-Dec-25,Omo,Cleaning supplies,3500
+143,07-Dec-25,Showergel,Toileteries,18000
+144,10-Dec-25,Cleaning,Cleaning,16000
+145,14-Dec-25,Cleqning,Cleaning,16000
+146,14-Dec-25,Plumb work,Maintenance,6000
+147,18-Dec-25,Cleaning,Cleaning,16000
+148,19-Dec-25,Cleaning,Cleaning,16000
+149,21-Dec-25,Cleaning,Cleaning,16500
+150,23-Dec-25,Internet,Internet,68000
+151,24-Dec-25,Cleaning,Cleaning,16000
+152,27-Dec-25,Cleaning,Cleaning,16000
+153,02-Jan-26,Electricity,Utilities,101000
+154,04-Jan-26,Slippers,HH items,8000
+155,04-Jan-26,Tp,Toileteries,9500
+156,04-Jan-26,Shower gel,Toileteries,20000
+157,04-Jan-26,Cleaning,Cleaning,16000
+158,04-Jan-26,Cleaning,Cleaning,16000
+159,09-Jan-26,Cleaning ,Cleaning,16500
+160,12-Jan-26,Cleaning ,Cleaning,16500
+161,16-Jan-26,Cleaning ,Cleaning,16500
+162,16-Jan-26,Boda for cleaner,Transport,1000
+163,23-Jan-26,Cleaning ,Cleaning,16000
+164,23-Jan-26,Internet,Internet,68000
+165,28-Jan-26,Cleaning ,Cleaning,16000
+166,31-Jan-26,Cleaning ,Cleaning,16500
+167,05-Feb-26,Cleaning ,Cleaning,16000
+168,05-Feb-26,Electric bill,Utilities,101000
+169,09-Feb-26,Cleaning,Cleaning,16500
+170,14-Feb-26,Cleaning,Cleaning,16000
+171,14-Feb-26,Steel wire??,Cleaning supplies,2000
+172,18-Feb-26,Cleaning,Cleaning,16000
+173,25-Feb-26,Internet ,Internet,68000
+174,23-Feb-26,Cleaning ,Cleaning,16000
