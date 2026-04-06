@@ -1,9 +1,9 @@
 # Strategic Expansion Analysis For a Short Term Rental Business: Amy_Homes
 
 ## 1. Project Overview 
-This project evaluates the first-year performance of **Amy_Homes**(https://www.airbnb.com/rooms/1399035234946544809 ), a short-term stay (Airbnb) business based in Kampala-Bunga Uganda. 
+This project evaluates the first-year performance of **Amy_Homes**, a short-term rental (Airbnb) business based in Kampala-Bunga Uganda. 
 
-As the business approached its one-year anniversary, the core objective was to determine whether to reinvest in a second unit or optimize current operations.
+As the business approached its first anniversary, the core objective was to determine whether to reinvest in a second unit or optimize current operations.
 
 
 ## 2. Business Questions
@@ -75,7 +75,7 @@ The analysis led to the following data-driven pivots:
 * **Targeting "Anchor Guests":** Shifting marketing efforts toward securing stays of 5+ days to reduce operational burnout.
 
 
-* **System Refinement:** Enhancing internal monitoring to better understand guest behavior, encourage returns, and maximize the lifetime value of every guest.
+* **System Refinement:** Enhancing internal monitoring to understand guest behavior better, encourage returns, and maximize the lifetime value of every guest.
 
 * **Building a Resilience Buffer:** The "floor month" stress test revealed a thin 2.6-day survival margin (a 94.7% expense-to-revenue ratio). To mitigate this volatility, the growth strategy now includes establishing a liquidity buffer proportional to three months of operating expenses. This ensures the portfolio remains self-sustaining and protected against seasonal dips during expansion.
 
@@ -84,18 +84,22 @@ The analysis led to the following data-driven pivots:
 
 ### **A. Demand Validation**
 ![Demand Validation viz](./assets/demand.png)
+
 *Visualizing the 80% occupancy achievement against the 49% Kampala market average.*
 
 ### **B. Revenue Drivers**
 ![Revenue Drivers](./assets/revenue.png)
+
 *Analysis of the "Duration Power-Law" and the 15% loyalty backbone.*
 
 ### **C. Operational Efficiency**
 ![Expense to revenue ratio](./assets/efficiency.png)
+
 *Aspects affecting the expense-to-revenue ratio.*
 
 ### **D. Year to Date Profit Trend**
 ![YTD porfit trend](./assets/profit_trend.png)
+
 *Business growth.*
 
 
