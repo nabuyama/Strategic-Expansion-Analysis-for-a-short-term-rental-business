@@ -107,7 +107,7 @@ The analysis led to the following data-driven pivots:
 ---
 
 **Technical Stack:** 
-Excel, PostgreSQL, SQL, Tableau, Visual Studio Code  
+Excel, PostgreSQL, SQL, Tableau, Visual Studio Code,Git  
 
 
 
